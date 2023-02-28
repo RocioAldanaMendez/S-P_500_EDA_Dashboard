@@ -108,7 +108,7 @@ https://mega.nz/file/hdR1BaiZ#wb29iR6_sQQa3b5zWwRJ-fyadTLNDkPk0EHC4nyejBw
 ## SUPERVICIÓN
 
 Proyecto bajo supervición de los siguientes profesionales:
-
+![integrantes](https://github.com/RocioAldanaMendez/S-P_500_EDA_Dashboard/blob/main/assets/integrantes.png)
 
 Gracias por ver este desarrollo, podes seguir los futuros cambios dandole una estrellita en la parte superior derecha del repositorio. Podes Clonarlo, y/o podes hacer un PullRequest ya que todo aporte es bienvenido. 
 
