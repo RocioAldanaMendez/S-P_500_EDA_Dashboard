@@ -78,9 +78,11 @@ Link Desarrollo de Analisis Exploratorio de Datos en .ipynb: (https://github.com
            
 - `KPI 4`: Alcance del mercado de un sector mayor al 10% contemplando una tendencia alsista a lo largo de 3 años.
   
-Link Proyecto POWER BI: 
+Link Proyecto POWER BI alojado en la página oficial de POWER BI:
 https://app.powerbi.com/links/oDmlttPGWh?ctid=bd085bdc-7e08-4b26-870c-a9331a90ec70&pbi_source=linkShare
 
+Link Proyecto POWER BI alojado en MEGA:
+https://mega.nz/file/hdR1BaiZ#wb29iR6_sQQa3b5zWwRJ-fyadTLNDkPk0EHC4nyejBw
 
 ## MINI-DEMO
 
