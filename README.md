@@ -19,8 +19,10 @@
     <li><a href="#ACCESO-AL-PROYECTO">ACCESO AL PROYECTO</a></li>
     <li><a href="#TECNOLOGÍAS">TECNOLOGÍAS UTILIZADAS</a></li>
     <li><a href="#DESARROLLADORES">DESARROLLADORES DEL PROYECTO</a></li>
+    <li><a href="#SUPERVICIÓN">SUPERVICIÓN</a></li>
   </ol>
 </details>
+
 
 ## INTRODUCCIÓN
 Se propone hacer un analisis minucioso de un índice en particular, el indicador S&P 500. Este índice pondera la capitalización bursátil de las 500 mayores empresas que cotizan en la bolsa de los Estados Unidos. El índice está considerado como el mejor indicador de la renta variable estadounidense y es ampliamente utilizado y referenciado
@@ -98,7 +100,6 @@ https://mega.nz/file/hdR1BaiZ#wb29iR6_sQQa3b5zWwRJ-fyadTLNDkPk0EHC4nyejBw
  
 ## TECNOLOGÍAS
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=40px height=40px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width=40px height=40px/>
-
 ## DESARROLLADORES
 
 | [<img src="https://avatars.githubusercontent.com/u/83037176?v=4" width=115><br><sub>Rocío Méndez</sub>](https://github.com/RocioAldanaMendez) |
