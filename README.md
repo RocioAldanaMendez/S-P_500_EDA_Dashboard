@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=%20Standard%20and%20Poor's%20500&fontSize=30&&color=15:92a8d1,100:f7cac9&desc=%20%20&fontColor=ff6347&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=%20Análisis%20Standard%20and%20Poor's%20500&fontSize=30&&color=15:92a8d1,100:f7cac9&desc=%20%20&fontColor=ff6347&fontAlignY=35)
 
 
 ## INDICE:
