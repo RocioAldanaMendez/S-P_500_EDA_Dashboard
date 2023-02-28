@@ -86,7 +86,8 @@ https://mega.nz/file/hdR1BaiZ#wb29iR6_sQQa3b5zWwRJ-fyadTLNDkPk0EHC4nyejBw
 
 ## MINI-DEMO
 
-https://github.com/RocioAldanaMendez/S-P_500_EDA_Dashboard/blob/main/assets/DEMO1.gif
+![DEMO1](https://github.com/RocioAldanaMendez/S-P_500_EDA_Dashboard/blob/main/assets/DEMO1.gif)
+
 
 ## ACCESO-AL-PROYECTO
             ## 🛠️ Abrir el archivo .ipynb para visualizar el EDA.
