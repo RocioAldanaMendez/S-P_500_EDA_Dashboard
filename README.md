@@ -15,6 +15,7 @@
     <li><a href="#EDA">EDA</a></li>
     <li><a href="#PowerBI">PowerBI</a></li>
     <li><a href="#PLANTEO-KPIs">PLANTEO-KPIs</a></li>
+    <li><a href="#MINI-DEMO">MINI-DEMO</a></li>
     <li><a href="#ACCESO-AL-PROYECTO">ACCESO AL PROYECTO</a></li>
     <li><a href="#TECNOLOGÍAS">TECNOLOGÍAS UTILIZADAS</a></li>
     <li><a href="#DESARROLLADORES">DESARROLLADORES DEL PROYECTO</a></li>
@@ -81,7 +82,7 @@ Link Proyecto POWER BI:
 https://app.powerbi.com/links/oDmlttPGWh?ctid=bd085bdc-7e08-4b26-870c-a9331a90ec70&pbi_source=linkShare
 
 
-## DEMO POWER BI:
+## MINI-DEMO
 
 https://github.com/RocioAldanaMendez/S-P_500_EDA_Dashboard/blob/main/assets/DEMO1.gif
 
