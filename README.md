@@ -82,7 +82,9 @@ https://app.powerbi.com/links/oDmlttPGWh?ctid=bd085bdc-7e08-4b26-870c-a9331a90ec
 
 
 ## DEMO POWER BI:
-(https://github.com/RocioAldanaMendez/FastAPI/blob/main/ETL-EDA/)
+
+(https://github.com/RocioAldanaMendez/S-P_500_EDA_Dashboard/blob/main/assets/PBI1.jpg)
+
 (https://github.com/RocioAldanaMendez/FastAPI/blob/main/ETL-EDA/)
 (https://github.com/RocioAldanaMendez/FastAPI/blob/main/ETL-EDA/)
 (https://github.com/RocioAldanaMendez/FastAPI/blob/main/ETL-EDA/)
