@@ -79,7 +79,7 @@ Link Desarrollo de Analisis Exploratorio de Datos en .ipynb: (https://github.com
            
 - `KPI 4`: Alcance del mercado de un sector mayor al 10% contemplando una tendencia alsista a lo largo de 3 años.
   
-Link Proyecto POWER BI alojado en la página oficial de POWER BI:
+Link Proyecto POWER BI alojado en la página oficial de POWER BI (teniendo cuenta institucional o profesional UdeMM):
 https://app.powerbi.com/links/oDmlttPGWh?ctid=bd085bdc-7e08-4b26-870c-a9331a90ec70&pbi_source=linkShare
 
 Link Proyecto POWER BI alojado en MEGA:
@@ -91,10 +91,9 @@ https://mega.nz/file/hdR1BaiZ#wb29iR6_sQQa3b5zWwRJ-fyadTLNDkPk0EHC4nyejBw
 
 
 ## ACCESO-AL-PROYECTO
-            ## 🛠️ Abrir el archivo .ipynb para visualizar el EDA.
-            ## Al clonarlo no hace falta descargar nada mas.
-            ## Para abrir el proyecto Power BI, puedes dirigirte al link de despliegue en esa plataforma y tambien dejo otra opcion
-             alojado en una nube, por lo que es necesario descargarlo y correrlo en Power BI Desktop.
+            ## 🛠️ Para visualizar el EDA, basta con abrir el proyecto de extención .ipynb desde git, o descargarlo y correrlo en tu IDE de preferencia, yo trabajé en esta oportunidad con Colab: https://colab.research.google.com/
+            
+            ## Para abrir el proyecto Power BI, puedes dirigirte al link de despliegue en esa plataforma solo si tenes cuenta universitaria o profesional de UdeMM (Universidad de la Marina Mercante) y si no, podes encontrar el archivo .pbix alojado en la nube de MEGA, por lo que es necesario descargarlo y correrlo en Power BI Desktop.
 
  
 ## TECNOLOGÍAS
@@ -110,6 +109,6 @@ https://mega.nz/file/hdR1BaiZ#wb29iR6_sQQa3b5zWwRJ-fyadTLNDkPk0EHC4nyejBw
 Proyecto bajo supervición de los siguientes profesionales:
 ![integrantes](https://github.com/RocioAldanaMendez/S-P_500_EDA_Dashboard/blob/main/assets/integrantes.png)
 
-Gracias por ver este desarrollo, podes seguir los futuros cambios dandole una estrellita en la parte superior derecha del repositorio. Podes Clonarlo, y/o podes hacer un PullRequest ya que todo aporte es bienvenido. 
+Muchisimas gracias por ver este desarrollo, podes seguir los futuros cambios dandole una estrellita en la parte superior derecha del repositorio. Podes Clonarlo, y/o podes hacer un PullRequest ya que todo aporte es bienvenido. :smiley: :wave:
 
 
