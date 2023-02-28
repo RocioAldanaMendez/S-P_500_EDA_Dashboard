@@ -40,7 +40,7 @@ La propuesta de trabajo se llevará a cabo en las siguientes etapas:
    - Librería: https://pypi.org/project/yfinance/ 
    - Página oficial
    - Lista índice SP500
-2. Análisis exploratorio de datos (EDA) Link: (https://github.com/RocioAldanaMendez/FastAPI/blob/main/ETL-EDA/modelo2.ipynb)
+2. Análisis exploratorio de datos (EDA) Link: (https://github.com/RocioAldanaMendez/S-P_500_EDA_Dashboard/blob/main/EDA.ipynb)
 3. Desarrollo de Dashboard con Power BI.
 
 ## ESTADO:
@@ -63,7 +63,7 @@ La propuesta de trabajo se llevará a cabo en las siguientes etapas:
 10. Exportación de datos en .parquet, y .csv (siempre es mejor tener un respaldo)
 11. Creación de Dashboard para presentar ante un cliente: Link 
 
-Link Desarrollo de Analisis Exploratorio de Datos en .ipynb: 
+Link Desarrollo de Analisis Exploratorio de Datos en .ipynb: (https://github.com/RocioAldanaMendez/S-P_500_EDA_Dashboard/blob/main/EDA.ipynb)
 
 ## PowerBI
 
@@ -83,17 +83,13 @@ https://app.powerbi.com/links/oDmlttPGWh?ctid=bd085bdc-7e08-4b26-870c-a9331a90ec
 
 ## DEMO POWER BI:
 
-(https://github.com/RocioAldanaMendez/S-P_500_EDA_Dashboard/blob/main/assets/PBI1.jpg)
-
-(https://github.com/RocioAldanaMendez/FastAPI/blob/main/ETL-EDA/)
-(https://github.com/RocioAldanaMendez/FastAPI/blob/main/ETL-EDA/)
-(https://github.com/RocioAldanaMendez/FastAPI/blob/main/ETL-EDA/)
-(https://github.com/RocioAldanaMendez/FastAPI/blob/main/ETL-EDA/)
+https://github.com/RocioAldanaMendez/S-P_500_EDA_Dashboard/blob/main/assets/DEMO1.gif
 
 ## ACCESO-AL-PROYECTO
             ## 🛠️ Abrir el archivo .ipynb para visualizar el EDA.
             ## Al clonarlo no hace falta descargar nada mas.
-            ## El archivo de Power BI está alojado en una nube, por lo que es necesario descargarlo y correrlo en Power BI Desktop.
+            ## Para abrir el proyecto Power BI, puedes dirigirte al link de despliegue en esa plataforma y tambien dejo otra opcion
+             alojado en una nube, por lo que es necesario descargarlo y correrlo en Power BI Desktop.
 
  
 ## TECNOLOGÍAS
