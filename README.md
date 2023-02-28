@@ -15,6 +15,7 @@
     <li><a href="#EDA">EDA</a></li>
     <li><a href="#PowerBI">PowerBI</a></li>
     <li><a href="#PLANTEO-KPIs">PLANTEO-KPIs</a></li>
+    <li><a href="#MINI-DEMO">MINI-DEMO</a></li>
     <li><a href="#ACCESO-AL-PROYECTO">ACCESO AL PROYECTO</a></li>
     <li><a href="#TECNOLOGÍAS">TECNOLOGÍAS UTILIZADAS</a></li>
     <li><a href="#DESARROLLADORES">DESARROLLADORES DEL PROYECTO</a></li>
@@ -22,11 +23,10 @@
 </details>
 
 ## INTRODUCCIÓN
-Este proyecto forma parte de la etapa Labs del curso de Data Science de la Academia Soy Henry.
-En esta ocasión brinda fuentes de información asociadas al sector de finanzas. Se propone hacer un analisis minucioso de un índice en particular, el indicador S&P 500. Este índice pondera la capitalización bursátil de las 500 mayores empresas que cotizan en la bolsa de los Estados Unidos. El índice está considerado como el mejor indicador de la renta variable estadounidense y es ampliamente utilizado y referenciado
+Se propone hacer un analisis minucioso de un índice en particular, el indicador S&P 500. Este índice pondera la capitalización bursátil de las 500 mayores empresas que cotizan en la bolsa de los Estados Unidos. El índice está considerado como el mejor indicador de la renta variable estadounidense y es ampliamente utilizado y referenciado
 
 ## OBJETIVO
-- Hacer analisis minucioso del indice sp500
+- Hacer analisis minucioso del indice S&P500
 - Sacar información y conclusiones de valor para determinar decisiones de inversion
 - Identificar Industrias o Sectores con mejor Retorno y contraponerlas con la información que se obtuvo anteriormente
 - Desarrollo de KPIs elijiendo un foco
@@ -40,8 +40,13 @@ La propuesta de trabajo se llevará a cabo en las siguientes etapas:
    - Librería: https://pypi.org/project/yfinance/ 
    - Página oficial
    - Lista índice SP500
+   Información extra obtenida de APIs: Evaluación de datos históricos de las siguientes companias 
+   - Advanced Micro Devices, Inc. (AMD)
+   - Broadcom Inc. (AVGO) https://finance.yahoo.com/quote/AVGO/history?p=AVGO
+   - Monolithic Power Systems, Inc. (MPWR) https://finance.yahoo.com/quote/MPWR/history?p=MPWR
+   
 2. Análisis exploratorio de datos (EDA) Link: (https://github.com/RocioAldanaMendez/S-P_500_EDA_Dashboard/blob/main/EDA.ipynb)
-3. Desarrollo de Dashboard con Power BI.
+3. Desarrollo de Dashboard con Power BI. Link: https://mega.nz/file/hdR1BaiZ#wb29iR6_sQQa3b5zWwRJ-fyadTLNDkPk0EHC4nyejBw
 
 ## ESTADO:
 <h4 align="center">
@@ -61,13 +66,10 @@ La propuesta de trabajo se llevará a cabo en las siguientes etapas:
 8. Segundas conclusiones
 9. Cálculo de mejores dias de inversión.
 10. Exportación de datos en .parquet, y .csv (siempre es mejor tener un respaldo)
-11. Creación de Dashboard para presentar ante un cliente: Link 
 
 Link Desarrollo de Analisis Exploratorio de Datos en .ipynb: (https://github.com/RocioAldanaMendez/S-P_500_EDA_Dashboard/blob/main/EDA.ipynb)
 
 ## PowerBI
-
-
 ## PLANTEO-KPIs:
 - `KPI 1`: Retorno promedio anual mayor al 8% a lo largo de 12 meses
                
@@ -77,13 +79,16 @@ Link Desarrollo de Analisis Exploratorio de Datos en .ipynb: (https://github.com
            
 - `KPI 4`: Alcance del mercado de un sector mayor al 10% contemplando una tendencia alsista a lo largo de 3 años.
   
-Link Proyecto POWER BI: 
+Link Proyecto POWER BI alojado en la página oficial de POWER BI:
 https://app.powerbi.com/links/oDmlttPGWh?ctid=bd085bdc-7e08-4b26-870c-a9331a90ec70&pbi_source=linkShare
 
+Link Proyecto POWER BI alojado en MEGA:
+https://mega.nz/file/hdR1BaiZ#wb29iR6_sQQa3b5zWwRJ-fyadTLNDkPk0EHC4nyejBw
 
-## DEMO POWER BI:
+## MINI-DEMO
 
-https://github.com/RocioAldanaMendez/S-P_500_EDA_Dashboard/blob/main/assets/DEMO1.gif
+![DEMO1](https://github.com/RocioAldanaMendez/S-P_500_EDA_Dashboard/blob/main/assets/DEMO1.gif)
+
 
 ## ACCESO-AL-PROYECTO
             ## 🛠️ Abrir el archivo .ipynb para visualizar el EDA.
@@ -93,12 +98,16 @@ https://github.com/RocioAldanaMendez/S-P_500_EDA_Dashboard/blob/main/assets/DEMO
 
  
 ## TECNOLOGÍAS
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=40px height=40px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width=40px height=40px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi.svg" width=40px height=40px/>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=40px height=40px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width=40px height=40px/>
 
 ## DESARROLLADORES
 
 | [<img src="https://avatars.githubusercontent.com/u/83037176?v=4" width=115><br><sub>Rocío Méndez</sub>](https://github.com/RocioAldanaMendez) |
 | :---: | 
+
+## SUPERVICIÓN
+
+Proyecto bajo supervición de los siguientes profesionales:
 
 
 Gracias por ver este desarrollo, podes seguir los futuros cambios dandole una estrellita en la parte superior derecha del repositorio. Podes Clonarlo, y/o podes hacer un PullRequest ya que todo aporte es bienvenido. 
