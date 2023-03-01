@@ -50,6 +50,8 @@ La propuesta de trabajo se llevará a cabo en las siguientes etapas:
 2. Análisis exploratorio de datos (EDA) Link: (https://github.com/RocioAldanaMendez/S-P_500_EDA_Dashboard/blob/main/EDA.ipynb)
 3. Desarrollo de Dashboard con Power BI. Link: https://mega.nz/file/hdR1BaiZ#wb29iR6_sQQa3b5zWwRJ-fyadTLNDkPk0EHC4nyejBw
 
+![RUTA](https://github.com/RocioAldanaMendez/S-P_500_EDA_Dashboard/blob/main/assets/RUTA1.png)
+
 ## ESTADO:
 <h4 align="center">
 :white_check_mark: Proyecto finalizado :white_check_mark:
