@@ -48,7 +48,11 @@ La propuesta de trabajo se llevará a cabo en las siguientes etapas:
    - Monolithic Power Systems, Inc. (MPWR) https://finance.yahoo.com/quote/MPWR/history?p=MPWR
    
 2. Análisis exploratorio de datos (EDA) Link: (https://github.com/RocioAldanaMendez/S-P_500_EDA_Dashboard/blob/main/EDA.ipynb)
-3. Desarrollo de Dashboard con Power BI. Link: https://mega.nz/file/hdR1BaiZ#wb29iR6_sQQa3b5zWwRJ-fyadTLNDkPk0EHC4nyejBw
+3. Desarrollo de Dashboard con Power BI. 
+    Link en MEGA: 
+    https://mega.nz/file/hdR1BaiZ#wb29iR6_sQQa3b5zWwRJ-fyadTLNDkPk0EHC4nyejBw
+    Link  en Drive:
+    https://drive.google.com/file/d/19dJEoxE87EBPVTh-PVxSCvxXH0G4ORzm/view?usp=share_link
 
 ![RUTA](https://github.com/RocioAldanaMendez/S-P_500_EDA_Dashboard/blob/main/assets/RUTA1.png)
 
@@ -83,7 +87,7 @@ Link Desarrollo de Analisis Exploratorio de Datos en .ipynb: (https://github.com
            
 - `KPI 4`: El volumen superior a 0.4 billones en un período de 2 años. 
 
-- `KPI 4`: Valor de ganancia nominal por acción de un sector ( EPS) mayor a 13 millones en un período de un año.
+- `KPI 5`: Valor de ganancia nominal por acción de un sector ( EPS) mayor a 13 millones en un período de un año.
   
 * Link Proyecto POWER BI alojado en la página oficial (teniendo cuenta institucional o profesional UdeMM):
 https://app.powerbi.com/links/DobA7PM_4n?ctid=bd085bdc-7e08-4b26-870c-a9331a90ec70&pbi_source=linkShare&bookmarkGuid=a503a7e9-712f-46c2-b2f1-3d646c247717
