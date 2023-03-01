@@ -79,15 +79,20 @@ Link Desarrollo de Analisis Exploratorio de Datos en .ipynb: (https://github.com
                
 - `KPI 2`:  Volatilidad menor al 5,0% en el período de un año 
                     
-- `KPI 3`: Ganancias por acción (EPS) mayor al 10% en un período de un año
+- `KPI 3`: Alcance del mercado de un sector mayor al 10% contemplando una tendencia alsista a lo largo de 2 años.
            
-- `KPI 4`: Alcance del mercado de un sector mayor al 10% contemplando una tendencia alsista a lo largo de 3 años.
-  
-Link Proyecto POWER BI alojado en la página oficial de POWER BI (teniendo cuenta institucional o profesional UdeMM):
-https://app.powerbi.com/links/oDmlttPGWh?ctid=bd085bdc-7e08-4b26-870c-a9331a90ec70&pbi_source=linkShare
+- `KPI 4`: El volumen superior a 0.4 billones en un período de 2 años. 
 
-Link Proyecto POWER BI alojado en MEGA:
-https://mega.nz/file/hdR1BaiZ#wb29iR6_sQQa3b5zWwRJ-fyadTLNDkPk0EHC4nyejBw
+- `KPI 4`: Valor de ganancia nominal por acción de un sector ( EPS) mayor a 13 millones en un período de un año.
+  
+* Link Proyecto POWER BI alojado en la página oficial (teniendo cuenta institucional o profesional UdeMM):
+https://app.powerbi.com/links/DobA7PM_4n?ctid=bd085bdc-7e08-4b26-870c-a9331a90ec70&pbi_source=linkShare&bookmarkGuid=a503a7e9-712f-46c2-b2f1-3d646c247717
+
+* Link Proyecto POWER BI alojado en MEGA:
+https://mega.nz/file/hFQyxSqQ#yoK-BFbpq7nIqq6eg82Rq9zBSRFNm130Q3jZ-iJbuDc
+
+* Link Proyecto POWER BI alojado en Drive:
+https://drive.google.com/file/d/19dJEoxE87EBPVTh-PVxSCvxXH0G4ORzm/view?usp=share_link
 
 ## MINI-DEMO
 
@@ -97,11 +102,14 @@ https://mega.nz/file/hdR1BaiZ#wb29iR6_sQQa3b5zWwRJ-fyadTLNDkPk0EHC4nyejBw
 ## ACCESO-AL-PROYECTO
             ## 🛠️ Para visualizar el EDA, basta con abrir el proyecto de extención .ipynb desde git, o descargarlo y correrlo en tu IDE de preferencia, yo trabajé en esta oportunidad con Colab: https://colab.research.google.com/
             
-            ## Para abrir el proyecto Power BI, puedes dirigirte al link de despliegue en esa plataforma solo si tenes cuenta universitaria o profesional de UdeMM (Universidad de la Marina Mercante) y si no, podes encontrar el archivo .pbix alojado en la nube de MEGA, por lo que es necesario descargarlo y correrlo en Power BI Desktop.
-
+            ## Para abrir el proyecto Power BI, opcion 1) puedes dirigirte al link de despliegue en esa plataforma solo si tenes cuenta universitaria o profesional de UdeMM (Universidad de la Marina Mercante)
+            2) podes encontrar el archivo .pbix alojado en la nube de MEGA, por lo que es necesario descargarlo y correrlo en Power BI.
+            3) podes encontrar el archivo .pbix en la nuve de Google Drive, por lo que es necesario descargarlo y correrlo en Power BI.
+            
+         
  
 ## TECNOLOGÍAS
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=40px height=40px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width=40px height=40px/>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width=40px height=40px/>
 ## DESARROLLADORES
 
 | [<img src="https://avatars.githubusercontent.com/u/83037176?v=4" width=115><br><sub>Rocío Méndez</sub>](https://github.com/RocioAldanaMendez) |
